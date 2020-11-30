@@ -6,7 +6,7 @@
 
 
 
-### A Security Checklist to help developers making their web applications more secure. 
+### A Web Application Security Checklist to help developers making their web applications more secure. 
 
 
 ##### Available in PDF for printing.
